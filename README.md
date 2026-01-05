@@ -22,6 +22,7 @@ samples, guidance on mobile development, and a full API reference.
 # echo "# aapa_calc_combust" >> README.md
 # git add README.md
 # git commit -m "first commit"
+# git commit -m "second commit"
 #  git branch -M main
 #  git remote add origin https://github.com/GuglielmoTargino/aapa_calc_combust.git
 #  git push -u origin main
