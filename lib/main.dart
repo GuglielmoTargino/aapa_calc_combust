@@ -14,7 +14,7 @@ class Home extends StatefulWidget {
 class _HomeState extends State<Home> {
   TextEditingController alcControl = TextEditingController();
   TextEditingController gasControl = TextEditingController();
-  String resu = "informr os valores";
+  String resu = "Digite os valores";
 
   void resetaR() {
     alcControl.text = "";
